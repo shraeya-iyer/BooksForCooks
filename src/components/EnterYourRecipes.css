@@ -1,0 +1,67 @@
+.mycookbook {
+    width: 100%;
+    padding: 6rem 1rem;
+    background: rgba(58,90,64, 0.9)
+
+}
+
+.card-container-large {
+    max-width: 2280px;
+    margin: auto;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: repeat(0, 1fr);
+    grid-auto-rows: auto;
+
+}
+
+.card-container-large .card-large {
+    border: 1px solid #000000;
+    color: #000000;
+    background-color: rgb(250,230,202);
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0,0,0,0.25);
+    transition: transform 0.3s ease;
+}
+
+
+.card-large {
+    text-align: center;
+    padding: 1rem;
+}
+
+
+.card-large:hover {
+    transform: scale(1.08);
+}
+
+.card-large h3 {
+    font-size: 1.4rem;
+    padding: 1rem;
+}
+
+.card-large .bar {
+    border-bottom: 1px solid #000000;
+    width: 10%;
+    margin: 1.5rem auto;
+    display: block;
+}
+
+.card-large .btc {
+    font-size: 4rem;
+    font-weight: 600;
+    padding: 1rem;
+}
+
+.mycookbook p {
+    color: #000000;
+    padding: 1rem 0;
+    font-size: 1.3rem;
+}
+
+
+.card-large .btn {
+    display: block;
+    width: 80%;
+    margin: 2rem auto;
+}

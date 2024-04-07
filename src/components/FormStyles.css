@@ -1,0 +1,44 @@
+.filter-section {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    margin-bottom: 50px;
+  }
+  
+  /* Label style */
+  .filter-section label {
+    margin-top: 120px;
+    margin-bottom: 15px;
+    color: floralwhite; /* Text color set to floralwhite */
+    text-align: center;
+  }
+  
+  /* Input field style */
+  .filter-section input {
+    width: 375px; /* Adjust width as needed */
+    margin-left: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  /* Adjust button style if needed */
+  button {
+    display: block;
+    margin: 5px auto 15px; 
+    padding: 8px 16px;
+    background-color: floralwhite;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  button:hover {
+    background-color: floralwhite;
+    color: black;
+    transform: scale(1.1);
+  }
+  
