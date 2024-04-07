@@ -13,3 +13,6 @@ Before this event, **none of our members had ever built a website before**, so t
 
 ## What's next for Books4Cooks
 We'd like to emphasize the social aspect of Books4Cooks and create a 'Friends' tab, where you can see what your friends have recently saved. Additionally, we'd love to add a feature where you can mark recipes as "made", where you can mark that you've made a certain recipe in your book, and notate any changes you made. 
+
+
+NODE MODULES ARE NOT INCLUDED - DOWNLOAD SEPERATELY
